@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "className": "CFantasyMovies",
+            "object": true,
+            "qualifiedClassName": "CFantasyMovies",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "movie",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "movieSelected",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "userInput",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "processUserInput",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "isEven",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "selectRandomMovie",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "CFantasyMovies.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,5 @@
+module FantasyMovies
+typeinfo appFantasyMovies.qmltypes
+prefer :/FantasyMovies/
+Main 1.0 Main.qml
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/FantasyMovies/">
+    <file alias="Main.qml">C:/Users/17633/OneDrive/Documents/FantasyMovies/Main.qml</file>
+    <file alias="input.txt">C:/Users/17633/OneDrive/Documents/FantasyMovies/input.txt</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-89a039b2931b44521940.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FantasyMovies",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e18667eeba579df4f24e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2b0856e9002060c206dd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-71ad0a55dd1fa140afb4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9743f63e017d48e9eefa.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies-Debug-366a205438963e04bac0.json",
+					"name" : "appFantasyMovies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_autogen-Debug-effe9ecf9c7ec3145d6c.json",
+					"name" : "appFantasyMovies_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_autogen_timestamp_deps-Debug-ac907c904447f3f5846a.json",
+					"name" : "appFantasyMovies_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_qmlimportscan-Debug-12925175dbf63d6d3398.json",
+					"name" : "appFantasyMovies_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_qmllint-Debug-6ce3148fa2066d313eff.json",
+					"name" : "appFantasyMovies_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_qmllint_json-Debug-50d05a2faf7bfe28c0ea.json",
+					"name" : "appFantasyMovies_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_qmllint_module-Debug-f6248b8db93af1e9df15.json",
+					"name" : "appFantasyMovies_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_qmltyperegistration-Debug-21080e5fee0057a9cc7f.json",
+					"name" : "appFantasyMovies_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFantasyMovies_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFantasyMovies_tooling-Debug-e5a25b985ae07b962b91.json",
+					"name" : "appFantasyMovies_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/17633/OneDrive/Documents/FantasyMovies/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/17633/OneDrive/Documents/FantasyMovies"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

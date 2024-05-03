@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/17633/OneDrive/Documents/FantasyMovies/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.0/mingw_64/./qml
+--resource
+C:/Users/17633/OneDrive/Documents/FantasyMovies/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_FantasyMovies.qrc
+--resource
+C:/Users/17633/OneDrive/Documents/FantasyMovies/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appFantasyMovies_raw_qml_0.qrc
+C:/Users/17633/OneDrive/Documents/FantasyMovies/Main.qml
